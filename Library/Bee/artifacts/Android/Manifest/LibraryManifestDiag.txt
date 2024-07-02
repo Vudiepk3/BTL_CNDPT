@@ -1,0 +1,31 @@
+Using template 'C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/AndroidPlayer\Apk\UnityManifest.xml'
+
+android.permission.INTERNET was added because:
+	UnityEngine.Networking was present in:
+		Unity.Analytics.DataPrivacy-FeaturesChecked.txt
+		Unity.Services.Core.Internal-FeaturesChecked.txt
+		Unity.Services.Core.Networking-FeaturesChecked.txt
+		Unity.Services.Core.Telemetry-FeaturesChecked.txt
+		Unity.Services.Analytics-FeaturesChecked.txt
+	UnityEngine.Network was present in:
+		Unity.Analytics.DataPrivacy-FeaturesChecked.txt
+		Unity.Services.Core.Internal-FeaturesChecked.txt
+		Unity.Services.Core.Networking-FeaturesChecked.txt
+		Unity.Services.Core.Telemetry-FeaturesChecked.txt
+		Unity.Services.Analytics-FeaturesChecked.txt
+	UnityEngine.Networking.UnityWebRequest was present in:
+		Unity.Analytics.DataPrivacy-FeaturesChecked.txt
+		Unity.Services.Core.Internal-FeaturesChecked.txt
+		Unity.Services.Core.Networking-FeaturesChecked.txt
+		Unity.Services.Core.Telemetry-FeaturesChecked.txt
+		Unity.Services.Analytics-FeaturesChecked.txt
+android.permission.ACCESS_NETWORK_STATE was added because:
+	UnityEngine.Application::get_internetReachability was present in:
+		Unity.Services.Core.Telemetry-FeaturesChecked.txt
+android.hardware.touchscreen.multitouch, android.hardware.touchscreen.multitouch.distinct were enabled because:
+	UnityEngine.Input::GetTouch was present in:
+		Assembly-CSharp-FeaturesChecked.txt
+		UnityEngine.UI-FeaturesChecked.txt
+	UnityEngine.Input::get_touchCount was present in:
+		Assembly-CSharp-FeaturesChecked.txt
+		UnityEngine.UI-FeaturesChecked.txt

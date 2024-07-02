@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:99-145
+	xmlns:android
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-77
+	android:name
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-74
+uses-feature#0x00020000
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-52
+	android:glEsVersion
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-49
+uses-feature#android.hardware.touchscreen
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-88
+	android:required
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:61-85
+	android:name
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-99
+	android:required
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:72-96
+	android:name
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-108
+	android:required
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:81-105
+	android:name
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-80
+application
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-22:17
+	android:extractNativeLibs
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:16-48
+meta-data#unity.splash-mode
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:5-69
+	android:value
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:49-66
+	android:name
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-48
+meta-data#unity.splash-enable
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-74
+	android:value
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:51-71
+	android:name
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-50
+meta-data#unity.launch-fullscreen
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-78
+	android:value
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:55-75
+	android:name
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-54
+meta-data#unity.allow-resizable-window
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-84
+	android:value
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:60-81
+	android:name
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-59
+meta-data#unity.auto-report-fully-drawn
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-84
+	android:value
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:61-81
+	android:name
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-60
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-21:16
+	android:screenOrientation
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:111-155
+	android:launchMode
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:156-187
+	android:hardwareAccelerated
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:405-440
+	android:exported
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:441-464
+	android:resizeableActivity
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:370-404
+	android:configChanges
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:188-369
+	android:theme
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:69-110
+	android:name
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:7-19:23
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:9-69
+	android:name
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:19-66
+action#android.intent.action.MAIN
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:9-61
+	android:name
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:17-58
+meta-data#unityplayer.UnityActivity
+ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:7-82
+	android:value
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:59-79
+	android:name
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:18-58
+uses-sdk
+INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml

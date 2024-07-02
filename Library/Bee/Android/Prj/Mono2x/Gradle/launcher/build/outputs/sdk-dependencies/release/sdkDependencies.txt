@@ -1,0 +1,49 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "billing-5.1.0"
+  }
+  digests {
+    sha256: "\335O\304\023\216\333\272Ml4\000\244L 4\305\350\016\326\344\2369\375\211\323\355\017\320\202\202MU"
+  }
+}
+library {
+  maven_library {
+    artifactId: "UnityAds"
+  }
+  digests {
+    sha256: "rb\241\221^\343\240` 0c\037\266x\277oh\255fv\315XF\020_\315S\300\272\332J="
+  }
+}
+library {
+  maven_library {
+    artifactId: "common"
+  }
+  digests {
+    sha256: "i\006\370Ya1@5 DuV\"\334\3655\214\367\262U\252\360h\313\021\207\260\265!G\350\243"
+  }
+}
+library {
+  digests {
+    sha256: "Ag\210;o\360\3779JJ\022\370\274\300\341=\241\246\020I\037E\274\030\027\261\307\254\\\\\343?"
+  }
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 1
+  dependency_index: 2
+  dependency_index: 3
+}
+repositories {
+  maven_repo {
+    url: "https://dl.google.com/dl/android/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://repo.maven.apache.org/maven2/"
+  }
+}

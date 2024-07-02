@@ -1,0 +1,212 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.FunRruitJump"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="32" />
+10-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-67
+19-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-64
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-79
+20-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-76
+21
+22    <uses-feature android:glEsVersion="0x00020000" />
+22-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-54
+22-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:19-51
+23    <uses-feature
+23-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-16:36
+24        android:name="android.hardware.touchscreen"
+24-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-52
+25        android:required="false" />
+25-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-33
+26    <uses-feature
+26-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:5-19:36
+27        android:name="android.hardware.touchscreen.multitouch"
+27-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-63
+28        android:required="false" />
+28-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-33
+29    <uses-feature
+29-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:5-22:36
+30        android:name="android.hardware.touchscreen.multitouch.distinct"
+30-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:9-72
+31        android:required="false" />
+31-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-33
+32
+33    <uses-permission android:name="com.android.vending.BILLING" />
+33-->[:billing-5.1.0:] C:\Users\Dell\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:10:5-67
+33-->[:billing-5.1.0:] C:\Users\Dell\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:10:22-64
+34    <!--
+35    This has been added to conform with requirement from Android 11 (API level 30) onwards
+36    (http://screen/9iGdBMRWDmVbRJ6), after getting confirmation in http://yaqs/995038231927980032#a1
+37    -->
+38    <queries>
+38-->[:billing-5.1.0:] C:\Users\Dell\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:16:5-20:15
+39        <intent>
+39-->[:billing-5.1.0:] C:\Users\Dell\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:17:9-19:18
+40            <action android:name="com.android.vending.billing.InAppBillingService.BIND" />
+40-->[:billing-5.1.0:] C:\Users\Dell\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:18:13-91
+40-->[:billing-5.1.0:] C:\Users\Dell\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:18:21-88
+41        </intent>
+42    </queries>
+43
+44    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+44-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:11:5-79
+44-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:11:22-76
+45
+46    <application
+46-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+47        android:extractNativeLibs="true"
+47-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:18-50
+48        android:icon="@mipmap/app_icon"
+48-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+49        android:label="@string/app_name" >
+49-->D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+50        <meta-data
+50-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-27:33
+51            android:name="unity.splash-mode"
+51-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-45
+52            android:value="0" />
+52-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-30
+53        <meta-data
+53-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-30:36
+54            android:name="unity.splash-enable"
+54-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-47
+55            android:value="True" />
+55-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-33
+56        <meta-data
+56-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-33:36
+57            android:name="unity.launch-fullscreen"
+57-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-51
+58            android:value="True" />
+58-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-33
+59        <meta-data
+59-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:37
+60            android:name="unity.allow-resizable-window"
+60-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-56
+61            android:value="False" />
+61-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-34
+62        <meta-data
+62-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:36
+63            android:name="unity.auto-report-fully-drawn"
+63-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-57
+64            android:value="true" />
+64-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-33
+65
+66        <activity
+66-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:9-59:20
+67            android:name="com.unity3d.player.UnityPlayerActivity"
+67-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-66
+68            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+68-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:13-194
+69            android:exported="true"
+69-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-36
+70            android:hardwareAccelerated="false"
+70-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-48
+71            android:launchMode="singleTask"
+71-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-44
+72            android:resizeableActivity="false"
+72-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-47
+73            android:screenOrientation="reverseLandscape"
+73-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-57
+74            android:theme="@style/UnityThemeSelector" >
+74-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:13-54
+75            <intent-filter>
+75-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:13-54:29
+76                <category android:name="android.intent.category.LAUNCHER" />
+76-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:17-77
+76-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:27-74
+77
+78                <action android:name="android.intent.action.MAIN" />
+78-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:17-69
+78-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:25-66
+79            </intent-filter>
+80
+81            <meta-data
+81-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-58:40
+82                android:name="unityplayer.UnityActivity"
+82-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:17-57
+83                android:value="true" />
+83-->[:unityLibrary] D:\Projects\BTL-CNDPT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:17-37
+84        </activity>
+85
+86        <meta-data
+86-->[:billing-5.1.0:] C:\Users\Dell\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:23:9-25:37
+87            android:name="com.google.android.play.billingclient.version"
+87-->[:billing-5.1.0:] C:\Users\Dell\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:24:13-73
+88            android:value="5.1.0" />
+88-->[:billing-5.1.0:] C:\Users\Dell\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:25:13-34
+89
+90        <activity
+90-->[:billing-5.1.0:] C:\Users\Dell\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:27:9-31:75
+91            android:name="com.android.billingclient.api.ProxyBillingActivity"
+91-->[:billing-5.1.0:] C:\Users\Dell\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:28:13-78
+92            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+92-->[:billing-5.1.0:] C:\Users\Dell\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:29:13-96
+93            android:exported="false"
+93-->[:billing-5.1.0:] C:\Users\Dell\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:30:13-37
+94            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+94-->[:billing-5.1.0:] C:\Users\Dell\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:31:13-72
+95        <activity
+95-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:14:9-18:74
+96            android:name="com.unity3d.services.ads.adunit.AdUnitActivity"
+96-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:15:13-74
+97            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+97-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:16:13-170
+98            android:hardwareAccelerated="true"
+98-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:17:13-47
+99            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+99-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:18:13-71
+100        <activity
+100-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:19:9-23:86
+101            android:name="com.unity3d.services.ads.adunit.AdUnitTransparentActivity"
+101-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:20:13-85
+102            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+102-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:21:13-170
+103            android:hardwareAccelerated="true"
+103-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:22:13-47
+104            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+104-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:23:13-83
+105        <activity
+105-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:24:9-28:86
+106            android:name="com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity"
+106-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:25:13-93
+107            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+107-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:26:13-170
+108            android:hardwareAccelerated="false"
+108-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:27:13-48
+109            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+109-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:28:13-83
+110        <activity
+110-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:29:9-33:74
+111            android:name="com.unity3d.services.ads.adunit.AdUnitSoftwareActivity"
+111-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:30:13-82
+112            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+112-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:31:13-170
+113            android:hardwareAccelerated="false"
+113-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:32:13-48
+114            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+114-->[:UnityAds:] C:\Users\Dell\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:33:13-71
+115    </application>
+116
+117</manifest>
